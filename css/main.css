@@ -285,6 +285,7 @@ ol li ol {
   .row .columns {
     position: relative;
     float: left;
+      align-content: center;
     width: 100%;
     padding-left: 0.9375em;
     padding-right: 0.9375em; }
@@ -387,7 +388,7 @@ a:focus {
   color: #2795b6; }
 
 img {
-  height: quto;
+  height: auto;
   max-width: 100%; }
 
 .no-bullets {
