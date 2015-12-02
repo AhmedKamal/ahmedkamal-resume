@@ -1,1 +1,1 @@
-My Online Resume based on a forked repo
+My Online Resume based on a ajmi resume repo
